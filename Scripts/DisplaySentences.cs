@@ -1,5 +1,6 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using TMPro; // Import TextMeshPro namespace
 
 public class DisplaySentences : MonoBehaviour
@@ -30,5 +31,10 @@ public class DisplaySentences : MonoBehaviour
         }
 
         displayText.text = "START THE GAME ->";
+    }
+
+    public void StartGame()
+    {
+        SceneManager.LoadSceneAsync(3);
     }
 }

@@ -5,5 +5,5 @@
 The gameplay of "Abandoned" is centered around exploration, melee combats, and decision-making. As players guide the protagonist through different areas of an abandoned facility, each level offers a range of interactive experiences and puzzles. Players will face enemies that impact the narrative, changing the outcome of the game. Throughout the game, players will uncover hidden clues and poignant mementos that provide insight into the current condition of the world. These discoveries add depth to the character and the story, helping the players to understand the backstory of a horrible incident.
 
 The haunting factory backdrop, dynamic level design, and thoughtful inclusion of health mechanics and power-ups create a gaming experience that challenges your skills and intellect while drawing you into a world that's both hauntingly beautiful and bleak. Your journey to escape the facility and unlock its mysteries is filled with tension, excitement, and moments of profound choice.
- 
+
 "Abandoned" invites you to explore the power of video games as a medium for immersive storytelling. It's an experience that will keep you on the edge of your seat, eager to uncover the secrets of this forsaken world and emerge victorious against all odds.

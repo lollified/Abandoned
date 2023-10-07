@@ -1,2 +1,3 @@
 # Abandoned
-This is a pixel art game which is based on a boy who has been abandoned since his childhood and has been searching for the answers regarding his parents.
+
+Welcome to the enigmatic world of "Abandoned," a video game that plunges players into a post-apocalyptic landscape where every choice could mean life or radioactive oblivion. As the brilliant nuclear physicist protagonist, you'll navigate a perilous 2D side-scrolling platformer set within an abandoned research facility. Crafted by a team of visionary storytellers, artists, and game designers, "Abandoned" delivers an emotionally charged journey filled with themes of resilience and hope. Featuring breathtaking visuals, a meticulously crafted soundscape, and immersive gameplay, "Abandoned" redefines storytelling in video games.
